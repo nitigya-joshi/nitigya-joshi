@@ -19,14 +19,15 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nitigya-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nitigya-joshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitigya-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitigya-joshi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14911434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14911434" height="30" width="40" /></a>
 <a href="https://instagram.com/nitigya_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitigya_joshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nitigya_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitigya_joshi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nishijoshi747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishijoshi747" height="30" width="40" /></a>
+<a href="https://codepen.io/nitigya-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nitigya-joshi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14911434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14911434" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
