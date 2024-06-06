@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1uNV8q1mnGBWiv5DROKuUZZ1B6AHL4va-/view)
+![MasterHead](https://drive.google.com/uc?export=view&id=1uNV8q1mnGBWiv5DROKuUZZ1B6AHL4va-)
 <h1 align="center">Hi 👋, I'm Nitigya Joshi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
