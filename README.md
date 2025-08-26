@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nitigyajoshi0901@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13CkYGH7n4vl9FifDHIvK_-2hJwuLH9YC/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C3Ohtu81s4pJM4El7bSugBOX_dpesrAQ/view)
 
 - ⚡ Fun fact **I think I am funny**
 
