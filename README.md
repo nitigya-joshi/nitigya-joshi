@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full-Stack development, DevOps**
 
-- 📫 How to reach me **nitigyajoshi0901@gmail.com**
+- 📫 How to reach me nitigyajoshi0901@gmail.com
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C3Ohtu81s4pJM4El7bSugBOX_dpesrAQ/view)
 
