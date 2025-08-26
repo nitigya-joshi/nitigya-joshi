@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Full-Stack development, DevOps**
 
-- 📫 How to reach me **nitigyajoshi0901@gmail.com**
+- 📫 How to reach me <a href="mailto:nitigyajoshi0901@gmail.com">nitigyajoshi0901@gmail.com</a>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C3Ohtu81s4pJM4El7bSugBOX_dpesrAQ/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1C3Ohtu81s4pJM4El7bSugBOX_dpesrAQ/view" target="_blank" rel="noopener noreferrer">Resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 
